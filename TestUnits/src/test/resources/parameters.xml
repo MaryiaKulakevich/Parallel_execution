@@ -7,7 +7,7 @@
         <parameter name="b" value="2D"></parameter>
         <parameter name="expected" value="3D"></parameter>
         <classes>
-            <class name="by.epam.at.module4.testng.SumDoubleTest"></class>
+            <class name="module4.testng.SumDoubleTest"></class>
         </classes>
     </test>
     <test name="Sum Double Test 2">
@@ -15,7 +15,7 @@
         <parameter name="b" value="0.02"></parameter>
         <parameter name="expected" value="0.01"></parameter>
         <classes>
-            <class name="by.epam.at.module4.testng.SumDoubleTest"></class>
+            <class name="module4.testng.SumDoubleTest"></class>
         </classes>
     </test>
 </suite>

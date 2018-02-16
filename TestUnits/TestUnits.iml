@@ -12,18 +12,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../Automated_testing_program/lecture_4/calculator-1.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-inject-plexus:1.4.2" level="project" />
-    <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-inject-bean:1.4.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:6.13" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.66" level="project" />
+    <orderEntry type="library" name="calculator-1.0" level="project" />
   </component>
 </module>

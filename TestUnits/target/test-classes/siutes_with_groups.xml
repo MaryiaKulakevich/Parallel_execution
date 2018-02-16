@@ -4,7 +4,7 @@
 
     <test name="Check Positive Test">
         <classes>
-            <class name="by.epam.at.module4.testng.IsPositiveTest">
+            <class name="module4.testng.IsPositiveTest">
                 <methods>
                     <include name="testPositive.*"/>
                 </methods>
@@ -19,7 +19,7 @@
             </run>
         </groups>
         <classes>
-            <class name="by.epam.at.module4.testng.isNegativeTest">
+            <class name="module4.testng.isNegativeTest">
             </class>
         </classes>
     </test>

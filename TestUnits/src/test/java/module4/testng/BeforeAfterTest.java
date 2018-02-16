@@ -52,6 +52,5 @@ public class BeforeAfterTest {
 
     protected void checkTime() {
         System.out.println("Current time: " + new Date(System.currentTimeMillis()));
-
     }
 }
